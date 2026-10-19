@@ -68,4 +68,4 @@ You can also import the two files in `postman/` into the Postman app.
 
 ## Results
 
-_Add a screenshot of the passing CI run here after the first run._
+![CI run passing](docs/results.png)
